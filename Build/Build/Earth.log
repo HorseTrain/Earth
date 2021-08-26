@@ -1,0 +1,10 @@
+﻿E:\Programs\VS\IDE\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(498,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+  Source.cpp
+  Terrain.cpp
+E:\Projects\Earth\Earth\Tools\Noise.h(29,50): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+E:\Projects\Earth\Earth\Tools\Noise.h(50,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\Projects\Earth\Earth\Tools\Noise.h(51,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\Projects\Earth\Earth\Tools\Noise.h(61,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+E:\Projects\Earth\Earth\Tools\Noise.h(70,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Earth.vcxproj -> E:\Projects\Earth\Build\Intermediate\Earth.exe
